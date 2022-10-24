@@ -69,7 +69,7 @@ local theme = lush(function()
     MiniStarterHeader                      { Title }, -- MiniStarterHeader 
     htmlH1                                 { Title }, -- htmlH1         
     htmlTitle                              { Title }, -- htmlTitle      
-    Visual                                 { bg="#2a2a2a", }, -- Visual         
+    Visual                                 { bg="#ffc038", }, -- Visual         
     VisualNOS                              { Visual }, -- VisualNOS      
     TelescopePreviewLine                   { Visual }, -- TelescopePreviewLine 
     WarningMsg                             { fg="#be95ff", }, -- WarningMsg     
